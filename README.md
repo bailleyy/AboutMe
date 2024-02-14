@@ -3,4 +3,4 @@
 
 I have been within the Roblox community for over 5 years now, and I love making and developing games just as much as I do coding on large complex projects. 
 
-Skills: **JSX** / **NextJs** / **HTML** / **Lua** / **Luau** / **Python** / **FastAPI** / **MongoDB** / **Roblox Studio**
+Skills: **JSX** / **NextJs** / **HTML** / **Lua** / **Luau** / **Python** / **FastAPI** / **MongoDB** / **Roblox Studio** // **JavaScript**
